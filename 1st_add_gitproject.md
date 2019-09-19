@@ -4,12 +4,14 @@
 
 #### 2. git init
 
-#### 3. git add .
+#### 3. 添加 .gitignore文件
 
-#### 4. git commit -m "tijiao"
+#### 4. git add .
 
-#### 5. git remote add origin https://github.com/seekingfish/quickstart.git
+#### 5. git commit -m "tijiao"
 
-#### 6. git pull --rebase origin master
+#### 6. git remote add origin https://github.com/seekingfish/quickstart.git
 
-#### 7. git push -u origin master
+#### 7. git pull --rebase origin master
+
+#### 8. git push -u origin master
